@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "Meta Front-End Developer Professional Certificate",
+    "Issuer": "Meta",
+    "Date": "December 2023",
+    "Img": "/certificates/meta-frontend.png",
+    "Link": "https://www.coursera.org/account/accomplishments/professional-cert/XXXXXX"
+  },
+  {
+    "Title": "JavaScript Algorithms and Data Structures",
+    "Issuer": "freeCodeCamp",
+    "Date": "August 2023",
+    "Img": "/certificates/freecodecamp-js.png",
+    "Link": "https://www.freecodecamp.org/certification/yourusername/javascript-algorithms-and-data-structures"
+  },
+  {
+    "Title": "React Developer Certification",
+    "Issuer": "Meta",
+    "Date": "October 2023",
+    "Img": "/certificates/meta-react.png",
+    "Link": "https://www.coursera.org/account/accomplishments/certificate/XXXXXX"
+  },
+  {
+    "Title": "Advanced Web Development",
+    "Issuer": "Udemy",
+    "Date": "September 2023",
+    "Img": "/certificates/udemy-web.png",
+    "Link": "https://www.udemy.com/certificate/XXXXXX"
+  }
+]

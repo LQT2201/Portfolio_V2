@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "Title": "THE PET – Connect Pet Lovers",
+    "Description": "A social networking platform for pet lovers. Features include real-time messaging via Socket.IO, Google/Facebook login with Passport.js, secure JWT authentication, post creation with images/videos via Cloudinary, a donation module, and more. Built with NextJS, NodeJS, and MongoDB.",
+    "Img": "thepet.png",
+    "Link": "https://social-network-orpin-chi.vercel.app/homepage",
+    "Github": "https://github.com/LQT2201/social-network",
+    "TechStack": [
+      "NextJS",
+      "NodeJS",
+      "MongoDB",
+      "Socket.IO",
+      "Passport.js",
+      "JWT",
+      "Cloudinary"
+    ],
+    "Features": [
+      "Real-time messaging",
+      "Social authentication (Google/Facebook)",
+      "Post creation with media",
+      "Donation system",
+      "User profiles",
+      "Real-time notifications"
+    ],
+    "isBlog": false
+  },
+  {
+    "id": 2,
+    "Title": "BOOK UIT – Bookstore Management",
+    "Description": "A responsive web app for small bookstores. Customers can search, browse, place orders, and track deliveries. Admin panel supports managing products and orders. Built with Spring Boot and NextJS; payment integrated via VNPay.",
+    "Img": "bookuit.png",
+    "Link": null,
+    "Github": "https://github.com/LQT2201/bookweb",
+    "TechStack": [
+      "Spring Boot",
+      "NextJS",
+      "MySQL",
+      "VNPay Integration",
+      "JWT Authentication"
+    ],
+    "Features": [
+      "Product search and browsing",
+      "Order management",
+      "Admin dashboard",
+      "Payment processing",
+      "Delivery tracking",
+      "Inventory management"
+    ],
+    "isBlog": false
+  },
+  {
+    "id": 3,
+    "Title": "Fashion E-commerce App (2 Members)",
+    "Description": "A mobile e-commerce application for the fashion industry, built with React Native. Customers can browse categories, search for items, place orders, and track deliveries. Admin panel supports product listing management, order processing, and customer data handling.",
+    "Img": "app.png",
+    "Link": "https://github.com/LQT2201/APIs_for_E-commerce_System",
+    "Github": "https://github.com/dinhkhanh2104/FE_IE307",
+    "TechStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redux",
+      "JWT"
+    ],
+    "Features": [
+      "Mobile-first design",
+      "Product catalog",
+      "Shopping cart",
+      "Order tracking",
+      "Admin dashboard",
+      "User authentication"
+    ],
+    "isBlog": false
+  },
+  {
+    "id": 4,
+    "Title": "Fashion E-commerce App (4 Members)",
+    "Description": "A responsive e-commerce website for selling Accessories, built with Laravel. The app enables customers to browse categories, search for items, place orders, and track deliveries. Admin panel for managing product listings, order processing, and customer data handling.",
+    "Img": "accsessories.png",
+    "Link": "https://github.com/Thuytrinhne/Sell-Accessories-E-commerce-Website",
+    "Github": "https://github.com/Thuytrinhne/Sell-Accessories-E-commerce-Website",
+    "TechStack": ["Laravel", "PHP", "MySQL", "Bootstrap", "jQuery", "AJAX"],
+    "Features": [
+      "Product management",
+      "Shopping cart",
+      "Order processing",
+      "Admin dashboard",
+      "User authentication",
+      "Category management"
+    ],
+    "isBlog": false
+  },
+  {
+    "id": 5,
+    "Title": "Bookstore Website",
+    "Description": "A modern e-commerce website for a bookstore with features including product search, order placement, and order tracking. The admin panel allows inventory management, order processing, and customer data management. Built with PHP, MySQL, and integrated with PayPal for payments.",
+    "Img": "book.png",
+    "Link": "https://github.com/truongcaophuc/book",
+    "Github": "https://github.com/truongcaophuc/book",
+    "TechStack": [
+      "PHP",
+      "MySQL",
+      "HTML/CSS",
+      "JavaScript",
+      "PayPal API",
+      "Bootstrap"
+    ],
+    "Features": [
+      "Product search",
+      "Shopping cart",
+      "PayPal integration",
+      "Order tracking",
+      "Admin dashboard",
+      "Inventory management"
+    ],
+    "isBlog": false
+  }
+]
